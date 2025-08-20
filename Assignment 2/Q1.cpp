@@ -31,4 +31,5 @@ int main(){
     if(found == false){
         cout<<"Element not present in the array";
     }
+
 }
